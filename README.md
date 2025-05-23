@@ -35,4 +35,4 @@ Welcome to my GitHub portfolio. I'm a passionate Mathematician and Data Scientis
 
 ## 📊 GitHub Stats
 
-![Esdras's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsdrasMicheni&show_icons=true&theme=default)
+![Esdras's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekomsaye&show_icons=true&theme=default)
