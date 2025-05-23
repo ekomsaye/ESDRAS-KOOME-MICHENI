@@ -13,8 +13,7 @@ Welcome to my GitHub portfolio. I'm a passionate Mathematician and Data Scientis
 ---
 
 📊 Featured Projects
-- 🔍 [Customer Churn Prediction (Python)](https://github.com/EsdrasMicheni/customer-churn-analysis-python) — Built a predictive model to identify potential customer churners.
-- 📈 [EKM ANALYTICS DASHBOARD (R SHINY)](https://github.com/EsdrasMicheni/milk-farmer-dashboard-powerbi) — Created a data dashboard for EKM ANALYTICS firm and its directorates.
+- 📈 [EKM ANALYTICS DASHBOARD (R SHINY)](https://github.com/ekomsaye/EKM-ANALYTICS-R-SHINY-DASHBOARD) — Created a data dashboard for EKM ANALYTICS firm and its directorates.
 - 📱 [Field Data Collection App (Kobo Collect)](https://github.com/EsdrasMicheni/field-data-collection-kobo) — Designed mobile forms and dashboards for real-time data collection in rural areas.
 
 ---
