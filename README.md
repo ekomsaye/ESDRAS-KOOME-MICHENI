@@ -27,9 +27,10 @@ Welcome to my GitHub portfolio. I'm a passionate Mathematician and Data Scientis
 ---
 
  📬 Get in Touch
--Email: esdraskoome@gmail.com
--LinkedIn:https://www.linkedin.com/in/esdras-koome-micheni-106651338/
--Upwork:https://www.upwork.com/freelancers/~01bbdaff1dc6ce0241
+- Email: esdraskoome@gmail.com
+- LinkedIn:https://www.linkedin.com/in/esdras-koome-micheni-106651338/
+- Upwork:https://www.upwork.com/freelancers/~01bbdaff1dc6ce0241
+- YouTube:https://www.youtube.com/channel/UCBhBTBAanuBNiQs3r7mwDmA
 
 ---
 
