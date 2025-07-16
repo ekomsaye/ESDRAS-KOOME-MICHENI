@@ -27,7 +27,7 @@ I'm a passionate **Mathematician**, **Data Scientist**, and **R Shiny Developer*
 > A visually rich dashboard created for the EKM Analytics Firm and its six directorates. It features interactive charts, customized info boxes, and value boxes with a modern UI.
 
 <div align="center">
-  <img src="images/ekm-dashboard-home.png" width="80%" alt="EKM Dashboard Home Screenshot">
+  <img src="images/home.jpg" width="80%" alt="EKM Dashboard Home Screenshot">
   <img src="images/ekm-dashboard-directorates.png" width="80%" alt="Directorates Page Screenshot">
 </div>
 
