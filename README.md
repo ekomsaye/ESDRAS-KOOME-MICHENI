@@ -9,8 +9,10 @@
 ## 🚀 About Me
 
 I'm a passionate **Mathematician**, **Data Scientist**, and **R Shiny Developer** with a strong technical foundation and a heart for community-driven innovation. From crafting custom dashboards for organizations to building mobile-based data systems for milk farmers, I thrive at the intersection of data, design, and decision-making.
-
+<div align="left">
 <img src="images/esdraskoome.jpg" width="20%" align="left" alt="Esdras Koome Micheni">
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
