@@ -22,7 +22,7 @@ I'm a passionate **Mathematician**, **Data Scientist**, and **R Shiny Developer*
 
 ## 📊 Featured Projects
 
-### 🔷 [EKM Analytics Dashboard (R Shiny)](https://github.com/ekomsaye/EKM-ANALYTICS-R-SHINY-DASHBOARD)
+### 🔷 [EKM Analytics Dashboard (R Shiny)](https://github.com/ekomsaye/EKM-ANALYTICS-FIRM-R-SHINY-DASHBOARD)
 
 > A visually rich dashboard created for the EKM Analytics Firm and its six directorates. It features interactive charts, customized info boxes, and value boxes with a modern UI.
 
